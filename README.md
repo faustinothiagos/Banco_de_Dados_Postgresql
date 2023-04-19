@@ -1,4 +1,4 @@
-# Banco_de_Dados_Postgresql
+# Projeto_DataBase_Postgresql_Seguradora
 
 Criando um Database para uma segurado no Postgresql em SQL(STRUCTURED QUERY LANGUAGE).
 
